@@ -2,7 +2,7 @@
 
 -data  
 -objectives  
--cleaning  
+~~cleaning~~  
 -wrangling  
 -exploratory data analysis  
 
