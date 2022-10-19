@@ -1,8 +1,8 @@
 # Hunger in America
 
-*data
-*objectives
-*cleaning
-*wrangling
-*exploratory data analysis
+-data
+-objectives
+-cleaning
+-wrangling
+-exploratory data analysis
 
